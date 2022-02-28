@@ -274,7 +274,7 @@ h4 {
 }
 .jcontainer {
   background-size: cover;
-  background-image: url(/images/newp.jpg);
+  background-image: url(images/newp.jpg);
   height: 100vh;
   display: flex;
   align-items: center;
